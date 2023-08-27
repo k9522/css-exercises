@@ -1,0 +1,15 @@
+.odd {
+    background-color: lightpink; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.odd.very {
+    font-size: 24px;
+}
+#bruh {
+    color: blue;
+    font-size: 36px;
+}
+#cringe {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
